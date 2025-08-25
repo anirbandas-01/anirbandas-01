@@ -45,7 +45,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!-- Pac-Man Repo Banner -->
-<div align="center">
-  <img src="assets/pacman.svg" alt="Pac-Man animation" />
-</div>
+
