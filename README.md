@@ -19,7 +19,7 @@
 
 ```javascript
 const anirban = {
-    location: "Baharampur, West Bengal, India",
+    location: "Santipur, West Bengal, India",
     education: {
         current: "MCA @ Academy of Technology, MAKAUT (CGPA: 7.40)",
         completed: "B.Sc. Computer Science @ Kanchrapara College (CGPA: 7.49)"
@@ -225,7 +225,7 @@ const myApproach: Developer = {
 - 💼 Open to **Full-Stack** and **Backend Developer** opportunities
 - 📧 Email: [anirban140963@gmail.com](mailto:anirban140963@gmail.com)
 - 📱 Phone: +91 8101733466
-- 📍 Location: Baharampur, West Bengal, India
+- 📍 Location: Santipur, West Bengal, India
 
 ---
 
